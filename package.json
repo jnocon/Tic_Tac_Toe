@@ -1,0 +1,32 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "A Timed Challenge to create Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnocon/Tic_Tac_Toe.git"
+  },
+  "author": "Jesse Nocon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnocon/Tic_Tac_Toe/issues"
+  },
+  "homepage": "https://github.com/jnocon/Tic_Tac_Toe#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  }
+}
